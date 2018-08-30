@@ -1,6 +1,8 @@
 # What is this?
 
-This is a chrome extension that shows you health grades on Yelp's restaurant pages. The restaurant inspection results come from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j). It was built off of [Chrome-extension-react-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate).
+This is a chrome extension that displays health grades on Yelp's restaurant pages. I created this hackathon-style project to learn about chrome extensions.
+
+The restaurant inspection results come from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j). It was built off of [Chrome-extension-react-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate).
 
 # To run it locally
 
