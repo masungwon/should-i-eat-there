@@ -1,3 +1,4 @@
+// get business name
 const restaurant_name_element = document
   .getElementsByClassName("biz-page-title")
   .item(0);
